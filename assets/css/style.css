@@ -240,6 +240,10 @@ p.title-sub {
     font-size: 1.1rem;
   }
 
+  .icons, .copy {
+    margin: 2px;
+  }
+
   p.title-sub {
     font-size: 0.7rem;
   }
