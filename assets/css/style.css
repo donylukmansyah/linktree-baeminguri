@@ -74,8 +74,9 @@ header.share {
   gap: 8px;
   z-index: 999;
   min-width: 170px;
-  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 10px 12px rgba(0, 0, 0, 0.6);
   animation: fadeIn 0.3s ease;
+  -webkit-animation: fadeIn 0.3s ease;
 }
 
 .dropdown-share a {
@@ -195,11 +196,11 @@ p.title-sub {
 }
 
 .icons i {
-  font-size: 2.3rem;
+  font-size: 2rem;
 }
 
 .copy i {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
 }
 
 .copy:hover {
@@ -244,7 +245,7 @@ p.title-sub {
   }
 
   .icons i {
-    font-size: 1.8rem;
+    font-size: 1.65rem;
   }
 
   .list-menu p {
@@ -252,6 +253,6 @@ p.title-sub {
   }
 
   .copy i {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
   }
 }
