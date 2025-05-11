@@ -236,6 +236,10 @@ p.title-sub {
 
 /* ? mobile */
 @media screen and (max-width: 778px) {
+  header.share {
+    padding: 15px 5px;
+  }
+
   h1.title-name {
     font-size: 1.1rem;
   }
