@@ -56,7 +56,7 @@ header.share {
 }
 
 .menu-share i {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   color: var(--bg-color);
 }
 
@@ -241,7 +241,7 @@ p.title-sub {
   }
 
   h1.title-name {
-    font-size: 1.1rem;
+    font-size: 1rem;
   }
 
   .icons, .copy {
@@ -253,14 +253,14 @@ p.title-sub {
   }
 
   .icons i {
-    font-size: 1.65rem;
+    font-size: 1.55rem;
   }
 
   .list-menu p {
-    font-size: 0.8rem;
+    font-size: 0.65rem;
   }
 
   .copy i {
-    font-size: 1.4rem;
+    font-size: 1.35rem;
   }
 }
