@@ -179,6 +179,10 @@ p.title-sub {
   opacity: 0.6;
 }
 
+.list-menu p {
+  font-size: 0.9rem;
+}
+
 .icons,
 .copy {
   width: 50px;
@@ -196,7 +200,7 @@ p.title-sub {
 }
 
 .icons i {
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 
 .copy i {
@@ -230,6 +234,7 @@ p.title-sub {
   -ms-border-radius: 12px;
   -o-border-radius: 12px;
 }
+
 .copy-toast.show {
   opacity: 1;
 }
